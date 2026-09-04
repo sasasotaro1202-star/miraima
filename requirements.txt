@@ -1,0 +1,4 @@
+requests>=2.32
+beautifulsoup4>=4.12
+pandas>=2.2
+numpy>=1.26
